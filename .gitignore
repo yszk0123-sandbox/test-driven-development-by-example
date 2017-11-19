@@ -1,0 +1,10 @@
+.gradle/
+bin/
+build/
+out/
+
+*.bak
+*.log
+*.swp
+
+.DS_Store
